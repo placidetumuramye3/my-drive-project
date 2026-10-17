@@ -1,0 +1,6 @@
+{
+  "name": "Storage Drive Software",
+  "description": "A secure, user-friendly storage drive application to upload, store, organize, download, search, share, and manage files and folders with quota controls and admin monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
